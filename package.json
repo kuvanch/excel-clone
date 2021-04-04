@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/kuvanch/excel-clone/issues"
   },
-  "homepage": "https://github.com/kuvanch/excel-clone#readme"
+  "homepage": "https://github.com/kuvanch/excel-clone#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
